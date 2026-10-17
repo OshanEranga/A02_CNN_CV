@@ -1,0 +1,9 @@
+# Downloaded datasets can be fetched by the notebook.
+data/
+
+# Python and Jupyter cache files.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
